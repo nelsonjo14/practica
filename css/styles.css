@@ -28,3 +28,15 @@ header{
 header span{
   font-size: 25px;
 }
+
+footer{  
+  background: darkblue;
+  color: white;  
+  text-align: center;
+  border-radius: 0px 0px 10px 10px;
+  padding: 15px;
+}
+
+footer span{
+  font-size: 20px;
+}
