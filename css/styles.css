@@ -16,3 +16,15 @@ body{
   background: white;
   color: darkblue;
 }
+
+header{  
+  background: darkblue;
+  color: white;  
+  text-align: center;
+  border-radius: 10px 10px 0px 0px;
+  padding: 15px;
+}
+
+header span{
+  font-size: 25px;
+}
