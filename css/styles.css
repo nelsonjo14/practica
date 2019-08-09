@@ -1,0 +1,18 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #ffe4b5;
+}
+
+.container{
+  width: 70%;
+  border: 1px solid black;
+  margin: auto;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 6px 6px 5px -1px rgba(0,0,0,0.5);
+}
+
+.container main{
+  padding: 20px;
+  background: white;
+  color: darkblue;
+}
